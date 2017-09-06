@@ -5,4 +5,8 @@
         <members>PublicSttacResource1</members>
         <name>StaticResource</name>
     </types>
+	<types>
+        <members>Ac1</members>
+        <name>ApexClass</name>
+    </types>
 </Package>
